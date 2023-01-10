@@ -1,0 +1,148 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProcurementDepartament
+build_property.RootNamespace = ProcurementDepartament
+build_property.ProjectDir = C:\Users\Ruslan\Desktop\PD\PD\ProcurementDepartament\ProcurementDepartament\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Ruslan\Desktop\PD\PD\ProcurementDepartament\ProcurementDepartament
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/AssamblyParts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzYW1ibHlQYXJ0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/AssamblyParts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzYW1ibHlQYXJ0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/AssamblyParts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzYW1ibHlQYXJ0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/AssamblyParts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzYW1ibHlQYXJ0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/AssamblyParts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzYW1ibHlQYXJ0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Departments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Vendors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Vendors/CreateOverExcel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yc1xDcmVhdGVPdmVyRXhjZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Vendors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Vendors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Vendors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Vendors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ruslan/Desktop/PD/PD/ProcurementDepartament/ProcurementDepartament/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bh2u7jsqlv
